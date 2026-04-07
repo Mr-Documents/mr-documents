@@ -1,5 +1,5 @@
 # 💫 Greetings!
-SOFTWARE | DEEP LEARNING | ENGINEER |
+SOFTWARE | DEEP LEARNING | ENGINEERING |
 
 
 💡 I like building systems to solve real-world problems. 
