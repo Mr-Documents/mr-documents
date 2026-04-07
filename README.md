@@ -1,7 +1,7 @@
 # 💫 About Me:
 SOFTWARE | DEEP LEARNING | ENGINEER |
 
-# Hi 👋, I'm Ramzy
+# Hi 👋
 
 💡 I like building systems to solve real-world problems  
 💻 Developer focused on practical and impactful projects.
