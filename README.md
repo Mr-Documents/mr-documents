@@ -1,7 +1,6 @@
-# 💫 About Me:
+# 💫 Greetings!
 SOFTWARE | DEEP LEARNING | ENGINEER |
 
-# Hi 👋
 
 💡 I like building systems to solve real-world problems  
 💻 Developer focused on practical and impactful projects.
