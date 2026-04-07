@@ -2,7 +2,7 @@
 SOFTWARE | DEEP LEARNING | ENGINEER |
 
 
-💡 I like building systems to solve real-world problems  
+💡 I like building systems to solve real-world problems. 
 💻 Developer focused on practical and impactful projects.
 
 
